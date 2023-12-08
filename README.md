@@ -1,6 +1,6 @@
 # ECG Extraction Code for publication entitled "Developing a Computational Phenotype of the Fourth Universal Definition of Myocardial Infarction for Inpatients"
 
 
-*Currently Submitted to the [CMAJ Open](https://www.cmajopen.ca/)*
+*Currently Submitted to the [JMIR](https://www.jmir.org/)*
 
-the data used to develop the code contain sensitive health information, and therefore haven't been included in the repository.
+The data used to develop the code contain sensitive health information, and therefore haven't been included in the repository.
